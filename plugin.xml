@@ -2,7 +2,7 @@
 <plugin id="cordova.plugin.followanalytics" version="6.3.2"
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>FollowAnalyticsCordovaPlugin</name>
+    <name>FollowAnalyticsCordovaPlugins</name>
     <js-module name="FollowAnalyticsCordovaPlugin" src="www/FollowAnalyticsCordovaPlugin.js">
         <clobbers target="FollowAnalytics" />
         <runs/>
