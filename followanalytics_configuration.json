@@ -1,0 +1,24 @@
+{
+  "android" :
+  { 
+    "debug":
+    {
+      "apiKey" : "6qoltk1SjjmTJQ"
+    },
+    "release":
+    {
+      "apiKey" : "6qoltk1SjjmTJQ"
+    }
+  },
+  "ios" :
+  { 
+    "debug":
+    {
+      "apiKey" : null
+    },
+    "release":
+    {
+      "apiKey" : null
+    }
+  }
+}
